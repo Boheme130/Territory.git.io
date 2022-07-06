@@ -5,9 +5,6 @@
 <p align="center">
   作者David Leavitt照片
   </p>
-<br>
-<br>
-
 
 作品：Territory <br>
 作者： David Leavitt
